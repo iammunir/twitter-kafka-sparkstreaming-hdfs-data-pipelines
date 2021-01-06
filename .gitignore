@@ -1,0 +1,11 @@
+.idea/
+target
+data-output/
+
+sparkstreaming-consumer/target
+sparkstreaming-consumer/output
+sparkstreaming-consumer/src/main/resources/config.properties
+
+twitter-producer/target
+twitter-producer/output
+twitter-producer/src/main/resources/config.properties
